@@ -67,7 +67,3 @@ Planet information panel (mass, gravity, moons)
 Camera controls for better 3D navigation
 Texture mapping for realistic planets
 Mobile responsiveness
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/virtual-solar-system.git
